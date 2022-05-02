@@ -1,0 +1,7 @@
+@-moz-document url-prefix('about:blank') {html{background-color:#292e39;}}
+/**
+html,body {
+ scrollbar-color: #ff00ff #0d0d0d !important;
+ scrollbar-width: 6px !important;
+}
+**/
