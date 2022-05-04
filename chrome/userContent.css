@@ -5,3 +5,8 @@ html,body {
  scrollbar-width: 6px !important;
 }
 **/
+@-moz-document domain("github.com") {
+	.blob-code-inner {
+		font-size: 16px !important;
+	}
+}
